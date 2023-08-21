@@ -6,7 +6,7 @@ Readme version (might be outdated):
 
 Install `composer`
 
-```other
+```bash
 cd /var/www/roundcube
 curl -s https://getcomposer.org/installer | php
 
