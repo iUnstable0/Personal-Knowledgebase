@@ -14,4 +14,6 @@ ALSO i usually login as root so I may forget to add sudo in some commands. Use c
 
 I know i shouldnt be logging in as root but i cant be bothered to type sudo everytime especially when doing echo "" > file stuff
 
+If you can't access craft.me links, make sure to add it to your dns sinkhole allowlist bevcause for some apparent reason, its listed in HaGeZi Personal Black & White blocklist
+
 ## i just created this repo at like 3am so i'll updayte and add more stuff later
